@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Fields plugin is now part of the Grails Plugin Collectiva
+# Fields plugin is now part of the Grails Plugin Collective
 
 Find it here: https://github.com/gpc/fields
 
